@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-wordpress/static/js/main.1cd90542.chunk.js",
+    "main.js.map": "/react-wordpress/static/js/main.1cd90542.chunk.js.map",
+    "runtime~main.js": "/react-wordpress/static/js/runtime~main.72acbab2.js",
+    "runtime~main.js.map": "/react-wordpress/static/js/runtime~main.72acbab2.js.map",
+    "static/css/2.dc6ef316.chunk.css": "/react-wordpress/static/css/2.dc6ef316.chunk.css",
+    "static/js/2.5e9adae5.chunk.js": "/react-wordpress/static/js/2.5e9adae5.chunk.js",
+    "static/js/2.5e9adae5.chunk.js.map": "/react-wordpress/static/js/2.5e9adae5.chunk.js.map",
+    "index.html": "/react-wordpress/index.html",
+    "precache-manifest.65fd7034b4372f466234a6437aaa1617.js": "/react-wordpress/precache-manifest.65fd7034b4372f466234a6437aaa1617.js",
+    "service-worker.js": "/react-wordpress/service-worker.js",
+    "static/css/2.dc6ef316.chunk.css.map": "/react-wordpress/static/css/2.dc6ef316.chunk.css.map",
+    "static/media/all.min.css": "/react-wordpress/static/media/fa-solid-900.ef3df984.eot",
+    "static/media/home-bg.jpg": "/react-wordpress/static/media/home-bg.be70d7dd.jpg"
+  }
+}
